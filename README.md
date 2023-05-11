@@ -1,4 +1,4 @@
-# api_basic
+# Daily Motivation Quotes
 
 A new Flutter project.
 
